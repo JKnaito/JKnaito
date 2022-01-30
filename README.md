@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JKnaito
+- 👀 I’m interested in web3 and blockchain
+- 🌱 I’m currently learning JavaScript
